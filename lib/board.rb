@@ -1,5 +1,5 @@
 # Define the variable board below.
-lib.board = board
+
 board = [" "," "," "," "," "," "," "," "," "]
 
 board[0]
